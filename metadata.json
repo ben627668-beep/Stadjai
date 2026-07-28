@@ -1,0 +1,8 @@
+{
+  "name": "Remix: STADJAI",
+  "description": "Gestion financière intelligente et conseils de sagesse biblique pour les étudiants de l\u0027Université de Bondoukou.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
